@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 **Hey, I'm Suryanshu**
 
-Building things, learning along the way.
+Building things, learning along the way
+
 JavaScript · Full Stack · Problem Solving
 
 A little about me
