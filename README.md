@@ -16,27 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hey, I'm Suryanshu 👋**
-Building things, learning along the way.
-JavaScript
-Full Stack
-Problem Solving
+**Hey, I'm Suryanshu**
 
+Building things, learning along the way.
+JavaScript · Full Stack · Problem Solving
 
 A little about me
 - Currently exploring full stack engineering and software design
 - Learning by building projects and experimenting with new ideas
 - Interested in clean architecture, APIs, and databases
 - Always up for learning something new
-
   
 What I'm building
-JavaScript & Full Stack Projects
-
-Practical applications, REST APIs, database integration, and object-oriented design
-
-Software Design
+- JavaScript & Full Stack Projects
+- Practical applications, REST APIs, database integration, and object-oriented design
+- Software Design
 
 Learning how to design maintainable, extensible and production ready software
 
-☁️ Stay curious · Build often · Keep exploring
+Stay curious · Build often · Keep exploring
